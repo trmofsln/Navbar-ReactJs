@@ -4,10 +4,13 @@
 
 
 ### Follow following commands and install the dependencies :
+(First make sure that you have successfully installed the software "Node.js" in your System)
+(Run following Commands in Terminal)
+(VS Code is Recommended)
 
 1. npm install
 2. npm install @material-ui/core
 3. npm install @material-ui/icons
 4. npm install react-router-dom  (If not globally installed, you can check that in package.json file)
 5. npm install react-dom  (If not globally installed, you can check that in package.json file)
-6. npm install
+6. npm start (To run the code on local host)
