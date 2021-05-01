@@ -4,8 +4,11 @@
 
 
 ### Follow following commands and install the dependencies :
+
 (First make sure that you have successfully installed the software "Node.js" in your System)
+
 (Run following Commands in Terminal)
+
 (VS Code is Recommended)
 
 1. npm install
