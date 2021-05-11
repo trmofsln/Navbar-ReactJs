@@ -25,7 +25,7 @@ function Navbar() {
           <div className="navheader__icons">
           <Link to="/about" className="navheader__icon">
             <InfoIcon />
-            <p>About Us</p>
+            <p>Raman</p>
           </Link>
           <Link to="/auth" className="navheader__icon">
             <AssignmentIndIcon />
